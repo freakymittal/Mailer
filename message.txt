@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+    <style>
+        ul>li{
+            line-height: 20px;
+            letter-spacing: 1px;
+            font-family: sans-serif;
+            font-size: 14px;
+        }
+    </style>
+</head>
+<body style="">
+    <div style="padding: 20px;background: #232B2B;background: #232b31;max-width: 800px;margin: 0 auto;color: white;">
+        <h2 style="text-align: center;margin: 5px;background: #DC3D24;color: white; padding: 5px;letter-spacing: 5px;text-transform: uppercase;font-family: sans-serif;">Comet Instruments</h2>
+        <h3 style="background: #E3AE57;color: black;text-transform: uppercase;text-align: center;margin: 5px;">Timers for Sign Board & Street Lights</h3>
+        <div class="content" style="display: flex; padding: 10px">
+            <div>
+                <h4 style="letter-spacing: 1px;margin: 0">Features: </h4>
+                <ul style="margin: 0;">
+                    <li>Attractive 0.56 inch High  LED Display for High visibility</li>
+                    <li>Selectable 12 or 24 Hour Display Format.</li>
+                    <li>High accuracy micro controller based circuit.</li>
+                    <li>Internal Battery backup maintains time during a power failure ,the clock will start to display accurate time as soon as the power is restored.</li>
+                    <li>Black powder coated Sheet metal housing</li>
+                    <li>Suitable for up to 20A current (5KW Load)Heavy Duty</li>
+                    <li>Simple push buttons to set real time, on time & off time</li>
+                    <li>Mfg. in India</li>
+                </ul>
+            </div>
+        <img src="http://i.imgur.com/MZmdbHZ.jpg" alt="" height="300px"/>
+        </div>
+        <p>
+            <b>Highly Recommended for : </b><span style="letter-spacing: 1px;;"> Street light, Sign board, Neon Sign, Glow Sign</span>
+        </p>
+        <footer>
+            <p style="text-align: center; font-weight: bold; background: #e3ae57;color:black;padding:10px;">
+                We are leading Manufacturers of OEM product measuring instruments LED Display boards. Comet Instruments is fast growing company in field of industrial instruments
+            </p>
+            <address style="text-align: right; color: white;">
+                You can contact us at ms_comet@hotmail.com.<br>
+                395, Clerk Colony Opp. ITI College,<br>
+                Pardeshipura, Indore (M.P.), India<br>
+                +919893231873, +917314030383, +917312552691<br />
+              </address>
+            <p style="background: #E3AE57; text-align: center; padding: 5px; color: black">
+                We are now FLUKE's Authorised Retailer
+            </p>
+            <p style="text-align: center; cursor: pointer; padding: 10px;color: white;">
+                <a href="http://www.cometinstruments.com" style="color: white;">For more information visit : Comet Instruments</a>
+            </p>
+        </footer>
+    </div>
+</body>
+</html>
